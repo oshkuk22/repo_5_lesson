@@ -1,0 +1,6 @@
+Petrov:15000.25
+Sidorov:36750.99
+Ivanov:16905.2
+Nikolaev:13100.34
+Semenov:40010.45
+Vasin:36550.55
