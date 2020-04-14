@@ -44,4 +44,4 @@ average_profit['average_profit'] = sum(firm_name_profit.values()) / len(firm_nam
 
 with open('7.json', 'w') as file_json:
     json.dump((firm_name_profit, average_profit, firm_name_loss), file_json)
-
+# pull_requests
